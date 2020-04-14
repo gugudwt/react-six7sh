@@ -1,13 +1,4 @@
-import img0 from "./images/img_0.png";
-import img1 from "./images/img_1.png";
-import img2 from "./images/img_2.png";
-import img3 from "./images/img_3.png";
-import img4 from "./images/img_4.png";
-import img5 from "./images/img_5.png";
-import img6 from "./images/img_6.png";
-import img7 from "./images/img_7.png";
-import img8 from "./images/img_8.png";
-import img9 from "./images/img_9.png";
+import img0 from "./img_0.png";
 
 export default {
   v: "5.6.5",
